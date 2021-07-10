@@ -29,7 +29,7 @@ enum preonic_keycodes {
 #define RALT_DOWN RALT_T(KC_DOWN)
 #define RCTL_UP RCTL_T(KC_UP)
 #define LCMD_RIGHT LGUI_T(KC_RIGHT)
-#define SPC_NUM LT(_LOWER,KC_SPC)
+#define SPC_NUM LT(_KARJALASTA,KC_SPC)
 #define ALT_W LALT_T(KC_W)
 #define ALT_O RALT_T(KC_O)
 #define CMD_E LCMD_T(KC_E)
